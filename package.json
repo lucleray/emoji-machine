@@ -1,5 +1,5 @@
 {
-  "name": "emoji",
+  "name": "emoji-machine",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -12,7 +12,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "export": "next export"
   },
   "devDependencies": {
     "babel-plugin-macros": "^2.4.2"
